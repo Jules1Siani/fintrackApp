@@ -82,9 +82,9 @@ fintrackApp/
 ```
 
 ---
-## 🎬 Demo Video
+## 🎥 Demo Video  
+[▶️ Watch the demo video](https://github.com/Jules1Siani/fintrackApp/raw/main/Screenshots/fintrack-demo.mov)
 
-🎥 [Watch the demo video](./Screenshots/fintrack-demo.mov)
 ---
 
 ## 📌 Author
