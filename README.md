@@ -82,12 +82,9 @@ fintrackApp/
 ```
 
 ---
+## 🎬 Demo Video
 
-### 🎬 Demo Video
-
-You can watch a recorded demo of the application below:
-
-[▶️ FintrackApp Demo Video](./Screenshots/fintrack-demo.mov)
+🎥 [Watch the demo video](./Screenshots/fintrack-demo.mov)
 ---
 
 ## 📌 Author
